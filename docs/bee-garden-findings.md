@@ -99,7 +99,7 @@ Platforms are numbered 0 to 9 here, as in the app (the [project summary](project
 | --- | --- | --- | --- |
 | 0 Home | Sunlit terrace, hills beyond; no bees | Lemon Blossom (43), Orange Blossom (42), Acacia (41), California Lilac (38), Silver Linden (50) | Lemon Blossom |
 | 1 Calm garden | Stream and pond, willow overhead; no bee on screen, optional far hum | White Willow (11), Snowdrop (27), Spring Crocus (26), English Bluebell (28), Dandelion (8) | White Willow |
-| 2 Bee at a distance | Long grass corridor; one softened bee 15 m away | Oilseed Rape (19), Alfalfa (35), Buckwheat (34), Common Hawthorn (16), Sycamore Maple (17) | Oilseed Rape |
+| 2 Bee at a distance | Long grass corridor; one softened bee 15 m away | Silver Birch (19), Alfalfa (35), Buckwheat (34), Common Hawthorn (16), Sycamore Maple (17) | Common Hawthorn |
 | 3 One predictable bee | Cottage lawn; one bee 7 m away on a steady loop | Borage (3), White Clover (1), Viper's Bugloss (20), Black Locust (10), Common Yarrow (32) | Borage |
 | 4 Guided foraging path | Winding flower path; 1–2 lifelike bees, 2.5 m at the near bed | English Lavender (2), Catmint (47), Common Foxglove (21), Anise Hyssop (46), Fireweed (37) | English Lavender |
 | 5 Your own pace | Walled kitchen garden, gravel path; 2 bees, you choose how close, down to 1 m | Common Thyme (22), Oregano (24), Common Sage (23), Spearmint (25), Coriander (44) | Common Thyme |
@@ -114,7 +114,7 @@ On 29 September, 22 of the 50 plants had a Tripo model; the rest are to follow.
 
 - **Platform 0** carries the honey trees (lemon and orange in pots, acacia, the linden), so the hub can say where honey comes from before any bee appears.
 - **Platform 1** is early spring by water: willow catkins and dandelions are the first forage of the year, which fits the platform's lesson (hear a bee, learn how it forages).
-- **Platform 2** is a farm track: the bright rape field at the far end is a strong depth cue on the SR and puts a real bee magnet safely 15 m away.
+- **Platform 2** is a farm track lined with silver birch and sycamore: a hawthorn hedge in full blossom at the far end is a strong depth cue on the SR and puts a real bee magnet safely 15 m away.
 - **Platforms 3, 4 and 5** use the plants the bee behaviour spec already names (borage and clover; lavender, catmint and foxglove; the herb bed), so the bee's flight paths land on the right flowers.
 - **Platform 6's** three patches are three colours (blue cornflower, yellow goldenrod, purple aster), so each bee can be read against its own patch.
 - **Platform 7's** five beds are five very different shapes, and the bee count per bed rises with real bee pull: cosmos 0–1, Joe-Pye weed 1, heather 2, manuka 3, sunflower 4.
@@ -129,7 +129,7 @@ The bee behaviour spec turns five dials across the platforms: distance, number, 
 | --- | --- | --- | --- | --- |
 | 0 | None | None: citrus in pots, linden out of flower | Around the terrace edge, nothing in reach | Warm late spring, Mediterranean terrace |
 | 1 | None on screen, optional far hum | Low: the first forage of the year | Across the water, far bank | Early spring |
-| 2 | One, 15 m, softened | A magnet, but 15 m away (the rape field) | Both sides of the corridor, well back; the field at the far end | Late April farmland |
+| 2 | One, 15 m, softened | A magnet, but 15 m away (the hawthorn hedge in blossom) | Both sides of the corridor, well back; the hedge at the far end | Late April farmland |
 | 3 | One, 7 m, steady loop | Moderate: borage and clover | Far side of the lawn | June cottage garden |
 | 4 | One or two, 2.5 m, lifelike | Moderate to high: lavender and catmint | A path from far to near; the near bed 2.5 m away | July |
 | 5 | Two, you choose, down to 1 m | Moderate: herbs in flower | Along the path, as close as you walk | July kitchen garden |
