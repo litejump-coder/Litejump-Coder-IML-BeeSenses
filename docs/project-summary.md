@@ -12,7 +12,7 @@ The first flower, borage, is fully done. The tool is ready to run on the rest of
 
 - **Built by:** hope abeacan (Ion Music Live), working with Claude
 - **Made for:** the Jupiter SR glasses-free 3D screen and VR headsets, as equal partners
-- **Licence:** code Apache-2.0, content CC BY 4.0, so others can use and build on it
+- **Licence:** code GPL-3.0, content CC BY-NC-SA 4.0, so it stays free for anyone using it to help others but can't be taken and sold; the standalone app stays mine
 
 ## What's been built so far
 
@@ -57,7 +57,7 @@ A separate bee behaviour spec sets out how the bee moves and sounds on each plat
 
 ## Parallel project: Gaussian splats and the flower repository
 
-Alongside the app, I'm building an open library of flowers in 3D. Each flower will have its Gaussian splat bloom, all nine bee views, a height map, its facts and full credits, released on GitHub and Zenodo under CC BY 4.0.
+Alongside the app, I'm building an open library of flowers in 3D. Each flower will have its Gaussian splat bloom, all nine bee views, a height map, its facts and full credits, released on GitHub and Zenodo under CC BY-NC-SA 4.0.
 
 Gaussian splats capture real things as millions of tiny soft points of colour, so a flower keeps its true look, sheen and depth rather than looking like a modelled object. That makes them a natural fit for glasses-free 3D screens like the Jupiter SR, where a bloom can float just in front of the glass.
 

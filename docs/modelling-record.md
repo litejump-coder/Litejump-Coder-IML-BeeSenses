@@ -50,8 +50,8 @@ The tool is a ComfyUI node pack, IML BeeSenses, so every plant runs through it t
 - **Bee senses are a reward.** The bee views unlock only once the person is comfortable with bees (2 minutes on the last platform, the hive). A facilitator can open them early by adding `?senses=1` to the address.
 - **Views change only from the pane.** A view is chosen by clicking that view's high-resolution image on the info pane, not by buttons, keys or voice. Choosing a view switches the whole garden into it until the same view is clicked again.
 - **The bee's-eye blur stays on the pane.** It is never put over the garden.
-- **Licences:** CC0, CC BY, MIT or Apache-2.0 only; no NC, ND or SA material. Every CC BY source is credited beneath each image it appears in.
-- **Credit line:** "Bee senses by Hope Abeacan / Ion Music Live, CC BY 4.0".
+- **Licences for outside material:** CC0, CC BY, MIT or Apache-2.0 only; no NC, ND or SA material, so the work can be shared openly and the standalone app can still be sold. Every CC BY source is credited beneath each image it appears in.
+- **Credit line:** "Bee senses by Hope Abeacan / Ion Music Live, CC BY-NC-SA 4.0".
 
 ## The bee's-eye model
 
@@ -201,7 +201,7 @@ A short timeline of 29 September 2026 (UK time).
 
 - **19:07–19:31** TRELLIS trials on own borage photos, then on four CC BY photos, which gave the best bloom. A source log was started, and open photo collections were checked for usable licences (iNaturalist, GBIF and Wikimedia Commons have CC0 and CC BY material; CO3D and MVImgNet are non-commercial; OmniObject3D needs a sign-up).
 - **19:35–19:52** The node pack was started. Measured flower spectra (Shrestha et al., CC BY 4.0) were added, UV prediction was tested across all 73 species, and the pane views were chosen.
-- **19:55–20:14** Relief mesh, splat and two-axis animation tested; licensing set (code Apache-2.0, everything else CC BY 4.0); whole-scene LUTs exported, matching the direct calculation within 0.7%; the first full borage run completed.
+- **19:55–20:14** Relief mesh, splat and two-axis animation tested; licensing set (code Apache-2.0, everything else CC BY 4.0; changed on 2 October to GPL-3.0 and CC BY-NC-SA 4.0); whole-scene LUTs exported, matching the direct calculation within 0.7%; the first full borage run completed.
 - **20:40** Splats made from all nine views.
 - **20:58–21:48** The bee senses engine was added to the viewer, applying the colour tables inside the renderers to garden splats, plant meshes and the sky, with credits under every view. All 53 VR comfort checks pass.
 - **22:00–23:35** The opening card and the borage pane were added. A fault where garden splats only changed colour while the head moved was fixed (see the technical notes above), and the comfort checks were rerun, all passing.
