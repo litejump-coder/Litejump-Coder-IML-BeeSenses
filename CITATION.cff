@@ -1,7 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "IML BeeSenses: flowers as honeybees see them"
+title: "IML BeeSenses: flowers as honeybees see them, for A Gift For People With Fear Of Honeybees"
 type: software
+version: v0.1.0
+date-released: 2026-10-03
+doi: 10.5281/zenodo.23111941
 authors:
   - given-names: Hope
     family-names: Abeacan

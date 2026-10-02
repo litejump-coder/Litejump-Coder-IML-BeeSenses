@@ -1,5 +1,7 @@
 # IML BeeSenses
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23111941.svg)](https://doi.org/10.5281/zenodo.23111941)
+
 ComfyUI nodes showing flowers as honeybees see them (UV, receptor, IR and height-map views), for a Spatial Reality & Virtual Reality gradual exposure garden used in conjunction, to help people who have fear of honeybees overcome those fears carefully and is for mild fear only, waiting for professional help at the time of this message to develop if possible in clinical use.  In addition an online repository of mostly honeybee friendly Gaussian Splat 3d (in part at present) flower bloom images.
 
 By Hope Abeacan / Ion Music Live.
