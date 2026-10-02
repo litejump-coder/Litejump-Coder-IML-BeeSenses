@@ -97,7 +97,9 @@ The gap comes from UV pigments that are colourless to us, so petals that look id
 
 **Infrared estimate.** Plant tissue reflects near-IR strongly whatever its pigment, leaves most of all (the Wood effect). The estimate keeps the light and shade, drops the pigment colour and lifts the foliage. It stands in for the look of an IR camera; it is not a measurement.
 
-**Measured species.** The pack bundles 73 measured species plus a leaf mean. Six are on the project's 50-plant list: borage, viper's bugloss (*Echium vulgare*), New England aster (listed as *Symphyotrichum novae* in the dataset), Canada goldenrod (*Solidago canadensis*), common yarrow (*Achillea millefolium*) and garden cosmos (*Cosmos bipinnatus*). The set also includes chicory (*Cichorium intybus*).
+**Measured species.** The pack bundles 73 measured species plus a leaf mean. Six of them were already among the 50 garden plants: borage, viper's bugloss (*Echium vulgare*), New England aster (listed as *Symphyotrichum novae* in the dataset), Canada goldenrod (*Solidago canadensis*), common yarrow (*Achillea millefolium*) and garden cosmos (*Cosmos bipinnatus*).
+
+On 2 October 2026 the other 67 species were added to the project's plant list (the Bee Plants XR Master List) as plants 51 to 117, so every flower with a measured spectrum now has its own entry, ready for species-accurate bee vision. They include chicory (*Cichorium intybus*), field scabious (*Knautia arvensis*), common poppy (*Papaver rhoeas*) and black-eyed Susan (*Rudbeckia hirta*). They are listed alongside the garden plants but not yet placed in any of the ten gardens. A few names are misspelt in the dataset (*Agetes lunulata*, *Tagetis tennifolia*, *Cuphea viscossima*); the list uses the correct names (*Tagetes lunulata*, *Tagetes tenuifolia*, *Cuphea viscosissima*).
 
 ## Height map, 3D relief and animation
 
@@ -189,7 +191,7 @@ The first full run of borage through IML BeeSenses worked on 29 September 2026: 
 - [ ] Replace the stand-in borage pane with the full plants pane
 - [ ] Decide which bloom the pane shows by default: the TRELLIS bloom or the photo relief
 - [ ] Fill the preview renderer's dotted gaps before the animation is used in public
-- [ ] Run the other 49 plants through the modeller (five more with measured spectra, the rest estimated)
+- [ ] Run the rest of the plant list through the modeller: the other 49 garden plants (five more with measured spectra, the rest estimated) and the 67 flowers added on 2 October, which all have measured spectra
 - [ ] Publish the node pack and the flower repository on GitHub and Zenodo
 - [ ] A companion view on the Jupiter SR for an accompanying person, when the screen arrives
 

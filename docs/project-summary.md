@@ -8,7 +8,7 @@ BeeSenses lets people see a flower the way a honeybee sees it. From an ordinary 
 
 It is part of my app *A Gift For People With Fear Of Honeybees*, a calm, step-by-step garden programme for people who are frightened of bees. Seeing through a bee's eyes is the reward at the end: once someone is comfortable around bees, the whole garden can switch into bee vision.
 
-The first flower, borage, is fully done. The tool is ready to run on the other 49 plants.
+The first flower, borage, is fully done. The tool is ready to run on the rest of the plant list: the other 49 garden plants, plus 67 more flowers with measured spectra that I added on 2 October.
 
 - **Built by:** hope abeacan (Ion Music Live), working with Claude
 - **Made for:** the Jupiter SR glasses-free 3D screen and VR headsets, as equal partners
@@ -28,12 +28,12 @@ Most of this came together in a long session on 29 September 2026, building on t
 | Opening card | The bee colour hexagon equations with my words about seeing through science |
 | 3D blooms | TRELLIS Gaussian splat blooms; best result from four CC BY photos of real borage |
 | Credits log | Every outside source logged, with its credit line under each image |
-| Plant database | Bee-senses details added to my 50-plant Bee Plants XR list; borage filled in |
+| Plant database | Bee-senses details added to my Bee Plants XR list; borage filled in. The list now holds 117 plants: the 50 for the gardens, plus 67 more flowers with measured spectra |
 
 **What we learned along the way**
 
 - UV can't be guessed from colour alone, only 18% of flowers come out right that way. Using each species' measured petal spectrum, all 73 tested species come out right.
-- Six of my 50 plants already have measured spectra: borage, viper's bugloss, New England aster, Canada goldenrod, common yarrow and garden cosmos.
+- Six of my 50 garden plants already have measured spectra: borage, viper's bugloss, New England aster, Canada goldenrod, common yarrow and garden cosmos. On 2 October I added the other 67 measured species from the same dataset to my plant list (plants 51 to 117), so every flower with a measured spectrum is now listed and ready for accurate bee vision. They aren't placed in a garden yet.
 - For 3D blooms, one flower photographed from three or four sides works far better than four flowers from the front.
 - Borage looks UV-blue to a bee and stands out clearly from its leaves.
 - The app still passes all 53 VR comfort checks with bee senses added.

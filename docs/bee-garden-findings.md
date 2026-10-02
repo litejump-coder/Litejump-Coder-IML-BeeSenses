@@ -93,7 +93,7 @@ Five plants at 2048-pixel textures use about 300 MB of video memory, which is fi
 
 Each platform gets five hero plants, and every plant is used once, so all 50 appear. The Marble garden paints the background; the hero plants are the GLB models placed where the bee works and where the info pane opens, so they are botanically exact. Bee pull rises with the platform number, and each garden keeps one season so the ten don't look alike.
 
-Platforms are numbered 0 to 9 here, as in the app (the [project summary](project-summary.md) counts them 1 to 10). Numbers in brackets are each plant's number in the project's 50-plant list.
+Platforms are numbered 0 to 9 here, as in the app (the [project summary](project-summary.md) counts them 1 to 10). Numbers in brackets are each plant's number in the project's plant list, the Bee Plants XR Master List. Plants 1 to 50 are the garden plants shown here; plants 51 to 117, added on 2 October 2026, are extra flowers with measured spectra that aren't placed in a garden yet.
 
 | Platform | Garden and bee | Five hero plants | Pane opens on |
 | --- | --- | --- | --- |
@@ -233,4 +233,4 @@ Pages consulted on 29 September 2026.
 - **Plant and macro splats:** [Splanting, University of Saskatchewan](https://splant.usask.ca/) and its [preprint](https://splant.usask.ca/static/assets/splanting-preprint.pdf), [macro Gaussian splatting of insects](https://lidarnews.com/macro-gaussian-splatting-of-insects/), [KIRI Engine capture guide](https://www.kiriengine.app/blog/how-to-capture-3d-gaussian-splats-kiri-engine), [nerfstudio turntable issue #3327](https://github.com/nerfstudio-project/nerfstudio/issues/3327)
 - **Display comfort:** [Sony Spatial Reality Display app guidance](https://www.sony.net/Products/Developer-Spatial-Reality-display/en/tips/HowToMakeApps.html)
 - **Plant photographs:** made and chosen with Midjourney 8.2, Nano Banana (standard, 2 and Pro) and ChatGPT image generation (2 and 2.5)
-- **Project material:** the bee behaviour spec, the Marble platform prompts, the info pane design and the 50-plant list
+- **Project material:** the bee behaviour spec, the Marble platform prompts, the info pane design and the Bee Plants XR Master List
