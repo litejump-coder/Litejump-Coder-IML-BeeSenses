@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "IML BeeSenses: flowers as honeybees see them"
+type: software
+authors:
+  - given-names: Hope
+    family-names: Abeacan
+    affiliation: Ion Music Live
+    email: litejump@googlemail.com
+repository-code: "https://github.com/litejump-coder/Litejump-Coder-IML-BeeSenses"
+abstract: >-
+  ComfyUI nodes that show flowers as honeybees see them (UV, bee colours,
+  receptor, bee's-eye, infrared and height-map views, with 3D reliefs and
+  Gaussian splats), made for A Gift For People With Fear Of Honeybees, a
+  gentle garden for people with a mild fear of honeybees on the Jupiter SR
+  and in VR.
+keywords:
+  - honeybee vision
+  - bee colour hexagon
+  - ultraviolet
+  - flower reflectance
+  - ComfyUI
+  - Gaussian splatting
+  - fear of bees
+license:
+  - GPL-3.0-only
+  - CC-BY-NC-SA-4.0

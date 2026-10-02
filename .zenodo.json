@@ -1,0 +1,35 @@
+{
+  "title": "IML BeeSenses: flowers as honeybees see them",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-nc-sa-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Abeacan, Hope",
+      "affiliation": "Ion Music Live"
+    }
+  ],
+  "description": "<p>IML BeeSenses shows flowers as honeybees see them. From an ordinary photo, a ComfyUI node pack works out the ultraviolet, the bee's own colours, each bee receptor, a bee colour map, a bee's-eye view and an infrared estimate, then turns each view into a height map, a 3D relief mesh, a Gaussian splat and a short animation. Where a species' petal reflectance has been measured, the UV comes from that measured spectrum.</p><p>It is part of <em>A Gift For People With Fear Of Honeybees</em>, a gentle, step-by-step garden for people with a mild fear of honeybees, made for the Jupiter SR glasses-free 3D screen and VR headsets. Seeing through a bee's eyes is the reward at the end. The garden is for mild fear only and is not a clinical treatment.</p><p>This version holds the project notes: the project summary, the modelling record and the bee garden findings. The node pack code and the open flower library (Gaussian splat blooms, bee views and plant data) will follow in later versions.</p><p><strong>Licences.</strong> Code: GNU General Public License v3.0. Content (images, splats, meshes, animations, colour tables, plant data and documentation): CC BY-NC-SA 4.0, with rules for helpers that let therapists, counsellors, clinicians, charities, schools, universities and researchers use the content in their own work, including paid sessions, teaching and research. For commercial use or other permissions, please email litejump@googlemail.com. Third-party material keeps its own licence and is credited in the files.</p><p>By Hope Abeacan / Ion Music Live, working with Claude.</p>",
+  "keywords": [
+    "honeybee vision",
+    "bee colour hexagon",
+    "ultraviolet",
+    "flower reflectance",
+    "Apis mellifera",
+    "ComfyUI",
+    "Gaussian splatting",
+    "spatial reality",
+    "virtual reality",
+    "fear of bees",
+    "gradual exposure"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.6084/m9.figshare.21081025.v2",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Code is licensed under GPL-3.0 (LICENSE); all other content under CC BY-NC-SA 4.0 with rules for helpers (LICENSE-CONTENT.md). The record shows the content licence because Zenodo lists one licence per record. The standalone app is not included and is not covered by these licences."
+}
