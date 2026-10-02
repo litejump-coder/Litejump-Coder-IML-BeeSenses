@@ -23,6 +23,7 @@ These are the technical findings behind the garden app *A Gift For People With F
 - **One real Jupiter SR bug was found, with a one-line fix.** Spark's default `preUpdate: true` runs its update inside the render pass, which breaks one eye's picture whenever the view moves. `preUpdate: false` moves the update between frames (the same path Spark already uses for VR headsets).
 - **Plants ship as GLB, not FBX.** Three.js reads Tripo's FBX files directly, but GLB loads faster, is far smaller and keeps the PBR materials intact.
 - **Blooms come from photographs.** Each pane holds one high-quality 3D bloom floating 5–10 cm in front of the glass, made from a real capture when the flower is in season, or from a photo through TRELLIS or Tripo otherwise. The photographs are made and chosen with Midjourney 8.2, Nano Banana (standard, 2 and Pro) and ChatGPT image generation (2 and 2.5).
+- **Tripo generation is very helpful, and the blooms need to render better.** Tripo has been very helpful for generating the 3D models. The blooms don't yet render as well as they need to, and a workaround is in progress.
 - **Fifty plants, five per garden.** Every platform gets five hero plants, matched to its garden and to how the bee behaves there, with the bee pull rising as the platforms climb.
 
 ## Status note
